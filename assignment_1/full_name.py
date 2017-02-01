@@ -1,6 +1,16 @@
-#!/usr/bin/python
+#!/opt/ActivePython-3.5/bin/python3.5
 
-def Full_Name():
+"""
+
+    full_name.py
+    Brandon Fowler
+    CS 131A A. Brick
+
+"""
+
+
+def full_name():
+    # function to print my full name.
     print('Brandon Fowler')
 
-Full_Name()
+full_name()
