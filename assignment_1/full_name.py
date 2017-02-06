@@ -10,8 +10,6 @@
 
 def full_name():
     # function to print my full name.
-    print('--------------------')
-    print('Brandon Fowler')
-    print('--------------------')
+    print('--------------------\n\n Brandon Fowler\n\n -------------------')
 
 full_name()
