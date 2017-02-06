@@ -1,4 +1,3 @@
-#!/opt/ActivePython-3.5/bin/python3.5
 
 """
 
